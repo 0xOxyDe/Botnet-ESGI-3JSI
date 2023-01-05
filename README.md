@@ -21,7 +21,6 @@ gcc .\installer.c -o installer
     
 ## Auteurs
 
-- [@Nicolas Torres-Sannier](https://github.com/Nicolas-Torres-Sannier)
 - [@OxyDe](https://github.com/0xOxyDe)
 - [@Skriix](https://github.com/Skriix)
 
